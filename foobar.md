@@ -1,0 +1,7 @@
+## c Example
+```C
+#include <stdio.h>
+
+int main(){
+    printf("Hello World ?!");
+}
